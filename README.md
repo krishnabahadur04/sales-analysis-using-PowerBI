@@ -47,7 +47,7 @@ This project proposes a solution: a comprehensive Power BI report that acts as a
 
 #### Cover Page
 The professional cover page provides an overview of the E-Commerce Sales Analysis project, setting the context for stakeholders.
-![COVERPAGE](https://github.com/user-attachments/assets/d2e83cdc-cd25-4608-8f71-a7efb108f875)
+![COVERPAGE](cover.png)
 
 #### Main Dashboard Page
 The central dashboard displays key metrics including total sales, profit margins, order volumes, and performance indicators. This page serves as the executive summary with high-level KPIs for quick decision-making.
@@ -113,16 +113,8 @@ This project reinforced the importance of clean data, thoughtful visualization d
 
 ---
 
-### Additional Resources:
-
-#### Problem Statement
-For detailed project requirements and objectives: [Problem Statement Document](https://drive.google.com/file/d/1J0zR00aH8Of0TLwoF1iyam_TlNLkDhWn/view?usp=drive_link)
-
-#### Detailed Analysis Documentation
-For comprehensive analysis methodology and findings: [Documentation Manual](https://drive.google.com/file/d/1p_VFBPtB29kNHP1BoKrULaRxAULhcbg5/view?usp=drive_link)
-
 ---
 
 **Project Status:** Completed  
-**Last Updated:** November 2024  
+**Last Updated:** November 2025 
 **Technologies:** Power BI, DAX, Power Query, Microsoft Excel
